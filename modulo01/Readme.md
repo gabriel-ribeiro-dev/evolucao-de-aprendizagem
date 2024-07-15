@@ -49,3 +49,17 @@ Na aula de Git básico, eu aprendi ou revisei:
 ### Aula de carreira1
 Nesta aula, eu aprendi sobre Soft skills e sua importância nas mais diversas carreiras
 
+### Node JS, NPM e Pakages.json
+Nesta aula de Node, eu aprendi:
+1. O que é node JS: O Node JS é um frame work que permite rodar programas em JavaScript direto do terminal, sem precisar abrir o navegador. Esta biblioteca é comumente utilizada para servidores
+2. Instalação do Node JS: Aprendi a instalar o Node JS, versão para Windows
+3. Como executar um arquivo JavaScript com o node JS: Basta rodar o comando node e o nome do arquivo para executá-lo
+4. O que é e como criar um projeto com NPM: O NPM é o gerenciador de pacotes do Node, usado para instalar complementos
+Para criar um projeto, utiliza-se o comando NPM Init para responder as perguntas necessárias para criar o Json. Alternativamente, pode-se acrescentar o -y ao final para criar sem pedir as informações
+5. Biblioteca nativa do Node JS: É um conjunto de códigos que vem de forma nativa no framework, sem a necessidade de softwares adicionais
+6. Import x Require (ES Modules ou CommonJS): Usado para importar
+7. Baixando uma biblioteca esterna: Você aprende o que fazer quando um conjunto de códigos que você precisa não vem instalada por padrão
+8. Usando uma biblioteca esterna: Usando a biblioteca esterna baixada anteriormente
+9. Baixando componentes necessários: Aprendi a baixar componentes disponíveis em um determinado projeto cujo as dependências ainda não foram instaladas
+10. Excluir uma biblioteca: Como excluir uma biblioteca
+11. Bibliotecas de desenvolvimento x produção: Aprendi qyue tem bibliotecas que não vão para produção e por tanto, são instaladas somente como desenvolvimento
