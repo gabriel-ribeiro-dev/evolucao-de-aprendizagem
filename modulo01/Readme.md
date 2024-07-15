@@ -112,4 +112,15 @@ Nesta aula, eu aprendi ou revisei:
  Nesta aula, aprendi sobre portifólio, ética na tecnologia e Github
 
  ### Array e loops
+ Nesta aula, eu aprendi:
+ 1. O que são arrays: São um conjuntos de diversos itens agrupados em um único lugar. Um exemplo pode ser uma lista de frutas
+ 2. Como acessar itens de um array: Para fazer isso, usa-se o índise do item em questão
+ 3. Como alterar ou aticionar um item no array: Para fazer isso, pode-se usar um índise, método .length ou método push
+ 4. Tamanho de um array: Para verificar o tamanho, usamos o nome.length
+ 5. Tipágem de arrays: Para tipar arrays, passamos o [] após o tipo definido
+ 6. Loop com o While: Possui uma estrutura semelhante ao if, porém, executa um bloco de código enquanto não atender uma determinada condição
+ 7. Loop for tradicional: Normalmente usado como um contador, o for executa um bloco de código para uma condição chegar em algum lugar
+ 8. Loop com for of: Não deixarei uma explicação, pois, não vi muita diferença
+ 9. Continue e break: Para ou continua um loop
+ 10. Loop em strings: Fazer loops com strings
  
