@@ -105,3 +105,11 @@ Nesta aula, eu aprendi ou revisei:
  8. Operador And: Usado para verificar se duas condições são verdadeiras, ao mesmo tempo
  9. Operador lógico Or: Para verficar entre duas condições e se uma já for verdadeira, então é válido
  
+ ### Aula de carreira 2
+ Nesta aula, aprendi como o Linkedin impacta e conhecemos um pouco sobre as de mais carreiras de TI
+
+ ### Aula de carreira 3
+ Nesta aula, aprendi sobre portifólio, ética na tecnologia e Github
+
+ ### Array e loops
+ 
