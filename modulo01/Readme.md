@@ -1,7 +1,7 @@
 #Módulo01
 Abaixo, segue as informações do módulo1: Lógica mais carreira.
 
-## O que aprenderei neste módulo:
+## O que aprendi neste módulo:
 
 1. Setup de ferramentas
 2. Git básico
@@ -29,3 +29,19 @@ Nesta aula, revisei:
 10. Como criar seu primeiro repositório
 11. Como clonar um repositório
 12. Como se autenticar no Github com ssh
+
+### Git básico
+Na aula de Git básico, eu aprendi ou revisei:
+1. O que são branchs?
+2. Como criar e alternar entre branchs?
+3. Publicando alterações no Github
+4. Inicializar o Git com Git init localmente
+5. Usar o git status para verificar se tem alterações
+6. Usar o git add para mandar os arquivos para área de stage
+7. Usar o Git reset para voltar a um commit, desfazendo o anterior
+8. Commitar com o Git commit, vercionando o código
+9. Git Log, verificar os commits feitos
+10. Comandos Git remote para sincronizar o repositório local com o remoto
+11. Git pull: Trazer o que está no remoto para o local
+12. Fazer um fork de um repositório no Github (Fazer uma cópia para a sua conta)
+13. Como fazer um Pull Request: Usado para enviar para análize alterações realizadas por você em um determinado projeto
