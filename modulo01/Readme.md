@@ -79,6 +79,7 @@ Nesta aula, eu aprendi ou revisei:
 11. Operadores de comparação: Usados para comparar condições
 12. Concatenação de strings: Juntar uma ou mais variáveis
 13. TemplateStrings: Uma forma bem melhor de concatenação
+
 ### Introdução ao TypeScript
 Nesta aula, eu aprendi:
 1. Tipos number e string: Number = números, strings = texto
@@ -91,3 +92,16 @@ Nesta aula, eu aprendi:
 6. Como executar typescript: Utilizando o TS-Node após instála-lo
 7. Ts Config: Conheci o TS Config
 8. Por que usar TS: Aprendi o porque usar o TypeScript
+
+### Condicionais
+Nesta aula, eu aprendi ou revisei:
+1. Condicional If: Usada quando se condição, faz alguma coisa
+2. Condicional Else: Usada quando senão, faz outra coisa
+3. Condicional Else if: Usada no caso de ter mais de duas opções de condição
+4. True: Quando a condição é verdadeira
+5. False: Quando a condição é falsa
+6. Ternário: Uma versão alternativa ao If e Else para quando existe apenas duas opções
+ 7. Operador de negação: Para negar uma condição
+ 8. Operador And: Usado para verificar se duas condições são verdadeiras, ao mesmo tempo
+ 9. Operador lógico Or: Para verficar entre duas condições e se uma já for verdadeira, então é válido
+ 
