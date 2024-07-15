@@ -45,3 +45,7 @@ Na aula de Git básico, eu aprendi ou revisei:
 11. Git pull: Trazer o que está no remoto para o local
 12. Fazer um fork de um repositório no Github (Fazer uma cópia para a sua conta)
 13. Como fazer um Pull Request: Usado para enviar para análize alterações realizadas por você em um determinado projeto
+
+### Aula de carreira1
+Nesta aula, eu aprendi sobre Soft skills e sua importância nas mais diversas carreiras
+
