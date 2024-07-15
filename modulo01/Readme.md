@@ -123,4 +123,9 @@ Nesta aula, eu aprendi ou revisei:
  8. Loop com for of: Não deixarei uma explicação, pois, não vi muita diferença
  9. Continue e break: Para ou continua um loop
  10. Loop em strings: Fazer loops com strings
- 
+
+ ### Objetos
+ Esta aula ainda não entendi muita coisa, falo dela em breve
+
+ ## Minha evolução neste módulo
+ Acho que aprendi muita coisa nova, como o for off e arrays e tive a oportunidade de consolidar minha lógica básica.
