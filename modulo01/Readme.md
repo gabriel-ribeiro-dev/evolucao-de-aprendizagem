@@ -63,3 +63,16 @@ Para criar um projeto, utiliza-se o comando NPM Init para responder as perguntas
 9. Baixando componentes necessários: Aprendi a baixar componentes disponíveis em um determinado projeto cujo as dependências ainda não foram instaladas
 10. Excluir uma biblioteca: Como excluir uma biblioteca
 11. Bibliotecas de desenvolvimento x produção: Aprendi qyue tem bibliotecas que não vão para produção e por tanto, são instaladas somente como desenvolvimento
+
+### Introdução ao TypeScript
+Nesta aula, eu aprendi:
+1. Tipos number e string: Number = números, strings = texto
+2. Tipos bolian, nul e undefined: Bulian = Verdadeiro ou falço, Null = valor nulo e Undefined = valor indefinido
+
+
+3. Introdução ao TypeScript: Conseitos gerais sobre o TypeScript
+4. Tipo de dados Any: Aceita qualquer coisa
+5. Instalação do TypeScript: Instalação do typescript pelo terminal
+6. Como executar typescript: Utilizando o TS-Node após instála-lo
+7. Ts Config: Conheci o TS Config
+8. Por que usar TS: Aprendi o porque usar o TypeScript
