@@ -64,6 +64,21 @@ Para criar um projeto, utiliza-se o comando NPM Init para responder as perguntas
 10. Excluir uma biblioteca: Como excluir uma biblioteca
 11. Bibliotecas de desenvolvimento x produção: Aprendi qyue tem bibliotecas que não vão para produção e por tanto, são instaladas somente como desenvolvimento
 
+### Variáveis
+Nesta aula, eu aprendi ou revisei:
+1. O que são variáveis: São funcionalidades que permitem alocar um espaço na memória
+2. Criando a primeira variável: Criei a minha primeira variável no curso
+3. Criando variáveis com let e const: Aprendi a criar variáveis utilizando let e const
+4. Diferenças entre Var, Let e Const: Aprendi a diferenciar as 3 formas de declaração
+5. Escopo: Aprendi o que é um escopo
+6. Declaração de variáveis sem atribuição de valores: Aprendi como declarar variáveis sem precisar ter um valor atribuído
+7. Operadores aritméticos: Como usar os operadores aritméticos dentro de um software
+8. Operador mode: Obter o resto de uma devisão
+9. Operadores de atribuição: Aprendi a usar os operadores de atribuição, como o +=
+10. Operadores de Incremento e decremento: Usados para almentar ou diminuir um valor
+11. Operadores de comparação: Usados para comparar condições
+12. Concatenação de strings: Juntar uma ou mais variáveis
+13. TemplateStrings: Uma forma bem melhor de concatenação
 ### Introdução ao TypeScript
 Nesta aula, eu aprendi:
 1. Tipos number e string: Number = números, strings = texto
